@@ -53,7 +53,30 @@ The list of deliverables, detailed in section III, will be contained and thoroug
 
 ## VI. ANALYSIS RESULTS:
 
+We observed from the ticker returns distributions that:
+* 
+* 
+* 
 
+We observed from the ESG data distribution that:
+* 
+* 
+* 
+
+We observed from the ticker returns and ESG data overlays that:
+* 
+* 
+* 
+
+We observed from the ticker returns and ESG data correlations that:
+* 
+* 
+* 
 
 ## VII. RECOMMENDATIONS:
 
+As a result of our analyses, we recommend the following course of actions for companies and investors alike:
+* 
+* 
+* 
+* 
